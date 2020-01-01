@@ -78,6 +78,7 @@ while(vstup !='0'):
 
         vys = (Bs*Cs)
         print('Výsledek je ',vys)
+        print('hozna smrdí ',vys)
         
         
 
